@@ -1,5 +1,6 @@
 Notebook Structure:
 This notebook is divided into two main sections:
+
 I). Descriptive Statistics
 
 II). Statistical inferences
