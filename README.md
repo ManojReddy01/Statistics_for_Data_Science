@@ -1,7 +1,8 @@
 Notebook Structure:
 This notebook is divided into two main sections:
 I). Descriptive Statistics
-II.) Statistical inferences
+
+II). Statistical inferences
 
 Descriptive statistics:
 1. Measures of Central Tendency: Mean, Median, Mode.
@@ -14,4 +15,4 @@ Statistical Inferences:
 1. Population vs. Sample: Understanding the difference and the importance of representative sampling.
 2. Central Limit Theorem: Explanation and demonstration of how sample means approximate a normal distribution.
 3. Confidence Intervals: Calculating a range that likely contains the true population mean.
-4. References for further
+4. References for further (links)
